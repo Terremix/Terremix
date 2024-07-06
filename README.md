@@ -18,7 +18,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ### Programming Languages:
 <p align="left">
