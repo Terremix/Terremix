@@ -145,7 +145,7 @@
 </p>
 
 <p>
-    <img align="left"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact"
         alt="terremix" />
 </p>
