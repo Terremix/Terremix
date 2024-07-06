@@ -144,20 +144,29 @@
     </a>
 </p>
 
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact"
+<div class="img-container">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact"
         alt="terremix" />
-</p>
+</div>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=terremix&show_icons=true&locale=en"
-        alt="terremix" /></p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&"
+<div class="img-container">
+    <img src="https://github-readme-stats.vercel.app/api?username=terremix&show_icons=true&locale=en"
         alt="terremix" />
-</p>
+</div>
+
+<div class="img-container">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&"
+        alt="terremix" />
+</div>
+
+<style>
+    .img-container {
+        text-align: center;
+    }
+    .img-container img {
+        display: inline-block;
+    }
+</style>
 
 ## Contacto
 
