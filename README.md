@@ -1,9 +1,5 @@
-# ¡Hola! 👋
-
-¡Bienvenido/a a mi perfil de GitHub! Soy Marcos Santos, un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás una muestra de mis proyectos y contribuciones.
-
 <h1 align="center">Hi 👋, I'm Marcos Santos</h1>
-<h3 align="center">A passionate Full Stack developer from Turquia</h3>
+<h3 align="center">A passionate Full Stack developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terremix&label=Profile%20views&color=0e75b6&style=flat" alt="terremix" /> </p>
 
