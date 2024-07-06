@@ -123,7 +123,7 @@
     </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Cards:</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact" alt="terremix" />
 </p>
