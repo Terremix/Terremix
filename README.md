@@ -127,6 +127,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" align="left" style="width: 100%" />
     </td>
@@ -142,7 +144,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Terremix&&style=flat-square)  
   
 
 <br/>  
