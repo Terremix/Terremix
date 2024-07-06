@@ -132,9 +132,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" style="width: 400px; height: auto;" />
       </td>
       <td valign="top" style="white-space: nowrap;">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=terremix&theme=dark" style="width: 400px; height: auto;" />
-        </a>
+        <img src="https://github-profile-trophy.vercel.app/?username=terremix&theme=dark" style="width: 400px; height: auto;" />
       </td>
     </tr>
   </table>
