@@ -118,7 +118,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-<p align="center">
+<p align="left">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact"
         alt="terremix" />
@@ -130,7 +130,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         alt="terremix" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&" alt="terremix" />
 </p>
 <br/>  
