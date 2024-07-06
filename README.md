@@ -118,8 +118,21 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Terremix&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<p align="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact"
+        alt="terremix" />
+</p>
+
+<p align="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=terremix&show_icons=true&locale=en"
+        alt="terremix" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&" alt="terremix" />
+</p>
 <br/>  
 
   
