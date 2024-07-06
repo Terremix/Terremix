@@ -136,11 +136,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&" alt="terremix" />
 </p>
 
-## Contacto
-
-- 🔗 Conéctate conmigo en [LinkedIn](www.linkedin.com/in/luis-maldonado-uriepero-1b6b8019b).
-
-## Agradecimientos
+<h2 align="left">Agradecimientos</h2>
 
 Gracias por visitar mi perfil y revisar mis proyectos. ¡Espero que encuentres algo interesante aquí!
 > "Si puedes imaginarlo, puedes programarlo"
