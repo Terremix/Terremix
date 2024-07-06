@@ -119,7 +119,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 
-<div style="overflow-x: auto;">
+<div style="overflow-y: auto;">
   <table style="width: 100%;">
     <tr>
       <td valign="top" style="white-space: nowrap;">
@@ -130,9 +130,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
       </td>
       <td valign="top" style="white-space: nowrap;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" style="width: 400px; height: auto;" />
-      </td>
-      <td valign="top" style="white-space: nowrap;">
-        <img src="https://github-profile-trophy.vercel.app/?username=terremix&theme=dark" style="width: 400px; height: auto;" />
       </td>
     </tr>
   </table>
