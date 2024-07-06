@@ -123,15 +123,15 @@
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact" alt="terremix" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=terremix&show_icons=true&locale=en" alt="terremix" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&" alt="terremix" />
 </p>
 
