@@ -127,10 +127,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
     </td>
+    <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terremix&show_icons=true&locale=en&layout=compact" align="left" style="width: 100%" />
+    </td>
   </tr>
 </table>
-
-<br/>  
 
   
 
