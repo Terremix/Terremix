@@ -38,7 +38,7 @@ Soy un firme creyente en el poder de la tecnología para resolver problemas glob
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Macrebot&show_icons=true&theme=radical)](https://github.com/Macrebot)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Terremix?show_icons=true&theme=radical)](https://github.com/Terremix)
 
 ## Contacto
 
