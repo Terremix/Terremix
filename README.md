@@ -119,26 +119,26 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Terremix&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
+<div style="overflow-x: auto;">
+  <table style="width: 100%;">
+    <tr>
+      <td valign="top" style="white-space: nowrap;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Terremix&show_icons=true&count_private=true&hide_border=true&theme=dark" style="width: 400px; height: auto;" />
+      </td>
+      <td valign="top" style="white-space: nowrap;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact&theme=dark" style="width: 400px; height: auto;" />
+      </td>
+      <td valign="top" style="white-space: nowrap;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" style="width: 400px; height: auto;" />
+      </td>
+      <td valign="top" style="white-space: nowrap;">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=terremix&theme=dark" align="left" style="width: 100%" />
+          <img src="https://github-profile-trophy.vercel.app/?username=terremix&theme=dark" style="width: 400px; height: auto;" />
         </a>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
   
 
