@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Marcos Santos!  
-  
 
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,16 +20,12 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -53,20 +48,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
 
 <br/>  
 
-
-## Languages and Tools  
-
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -96,7 +83,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="25%">
 
 
-### Devs Ops  
+### Dev Ops  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -122,23 +109,19 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 
-<div style="overflow-y: auto;">
-  <table style="width: 100%;">
+<div style="overflow-x: auto; width: 100%;">
+  <table style="white-space: nowrap; border-collapse: collapse; table-layout: fixed; width: 100%;">
     <tr>
-      <td valign="top" style="white-space: nowrap;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Terremix&show_icons=true&count_private=true&hide_border=true&theme=dark" style="width: 400px; height: auto;" />
+      <td style="padding: 10px; width: 400px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Terremix&show_icons=true&count_private=true&hide_border=true&theme=dark" style="width: 100%; height: auto;" />
       </td>
-      <td valign="top" style="white-space: nowrap;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terremix&hide_border=true&layout=compact&theme=dark" style="width: 400px; height: auto;" />
-      </td>
-      <td valign="top" style="white-space: nowrap;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=terremix&theme=dark" style="width: 400px; height: auto;" />
+      <td style="padding: 10px; width: 400px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terremix&theme=dark" style="width: 100%; height: auto;" />
       </td>
     </tr>
   </table>
 </div>
 
-  
 
 <br/>  
 
